@@ -3,8 +3,8 @@
     line-height: 115%;
     margin-left: 30px;
 }
-.comment { background-image: url(../img/sprite.png); background-position: 0px 0px; background-size: 125px 80px }
-.bubble { background-image: url(../img/sprite.png); background-position: -64px 0px; background-size: 125px 80px }
+.comment { background-image: url(./img/sprite/coc-2.png) }
+.bubble { background-image: url(./img/sprite/coc-3.png) }
 @media (min-width: 320px) {
     .html {
         font-size: calc(3.125vw + 10px);
