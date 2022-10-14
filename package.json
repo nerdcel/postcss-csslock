@@ -1,6 +1,6 @@
 {
-  "name": "postcss-csslock",
-  "version": "1.0.0",
+  "name": "postcss-lockcss",
+  "version": "0.0.1",
   "description": "PostCSS plugin CSS-gateway is a special kind of calculation of CSS-value, in which: there is a minimum and maximum value, there are two breakpoints (usually depending on the width of the viewport), between these points the value varies linearly from the minimum to the maximum.",
   "keywords": [
     "postcss",
@@ -10,13 +10,13 @@
     "adaptive",
     "resposive"
   ],
-  "author": "pepelxD <rfwp10@mail.ru>",
+  "author": "nerdcel",
   "license": "MIT",
-  "repository": "pepelxD/postcss-csslock",
+  "repository": "nerdcel/postcss-csslock",
   "bugs": {
-    "url": "https://github.com/pepelxD/postcss-csslock/issues"
+    "url": "https://github.com/nerdcel/postcss-csslock/issues"
   },
-  "homepage": "https://github.com/pepelxD/postcss-csslock",
+  "homepage": "https://github.com/nerdcel/postcss-csslock",
   "dependencies": {
     "deepmerge": "^2.1.0",
     "postcss": "^6.0.16"
