@@ -1,6 +1,6 @@
 {
   "name": "@nerdcel/postcss-csslock",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "PostCSS plugin CSS-gateway is a special kind of calculation of CSS-value, in which: there is a minimum and maximum value, there are two breakpoints (usually depending on the width of the viewport), between these points the value varies linearly from the minimum to the maximum.",
   "keywords": [
     "postcss",
